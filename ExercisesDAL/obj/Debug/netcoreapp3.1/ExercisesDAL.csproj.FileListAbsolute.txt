@@ -1,0 +1,12 @@
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.deps.json
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csprojAssemblyReference.cache
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.AssemblyInfo.cs
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.json
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.runtimeconfig.dev.json
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.genruntimeconfig.cache
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\JL\source\repos\ExercisesWebsite\ExercisesDAL\obj\Debug\netcoreapp3.1\ExercisesDAL.pdb

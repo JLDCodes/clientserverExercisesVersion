@@ -1,0 +1,12 @@
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\bin\Debug\netcoreapp3.1\StudentViewModel.deps.json
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\bin\Debug\netcoreapp3.1\StudentViewModel.dll
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\bin\Debug\netcoreapp3.1\StudentViewModel.pdb
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\bin\Debug\netcoreapp3.1\ExercisesDAL.dll
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\bin\Debug\netcoreapp3.1\ExercisesDAL.pdb
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.csprojAssemblyReference.cache
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.AssemblyInfoInputs.cache
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.AssemblyInfo.cs
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.csproj.CoreCompileInputs.cache
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.csproj.CopyComplete
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.dll
+C:\Users\JL\source\repos\ExercisesWebsite\StudentViewModel\obj\Debug\netcoreapp3.1\StudentViewModel.pdb
