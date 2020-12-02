@@ -14,7 +14,8 @@ namespace ExercisesDAL
             : base(options)
         {
         }
-
+        public virtual DbSet<Grades> Grades { get; set; }
+        public virtual DbSet<Courses> Courses { get; set; }
         public virtual DbSet<Divisions> Divisions { get; set; }
         public virtual DbSet<Students> Students { get; set; }
 

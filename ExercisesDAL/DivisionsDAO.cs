@@ -23,6 +23,7 @@ namespace ExercisesDAL
 
             try
             {
+
                 return repository.GetAll();
             }
             catch (Exception ex)

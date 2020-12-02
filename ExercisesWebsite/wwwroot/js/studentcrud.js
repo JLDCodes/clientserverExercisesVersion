@@ -152,10 +152,10 @@
 		}
 		$("#theModal").modal("toggle");
 	}
+
 	$("#actionbutton").click(() => {
 		$("#actionbutton").val() === "update" ? update() : add();
 	});
-
 
 	$('[data-toggle=confirmation]').confirmation({
 		rootSelector: '[data-toggle=confirmation]'
